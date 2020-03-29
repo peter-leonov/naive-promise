@@ -1,0 +1,11 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "description": "Simulating a longer interview where I'd need to write a Promise/A+ implementation from scratch.",
+  "main": "promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"}
