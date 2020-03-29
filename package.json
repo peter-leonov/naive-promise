@@ -8,4 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"}
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^25.2.3"
+  }
+}
